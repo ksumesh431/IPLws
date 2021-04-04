@@ -1,5 +1,5 @@
 const { fs, path, request, cheerio, createDir } = require("../includes");
-const{processPlayers}=require("./processPlayers");
+const { processPlayers } = require("./processPlayers");
 
 function processMatches(url) {
     request(url, (err, res, html) => {
@@ -18,7 +18,7 @@ function processMatches(url) {
         }
     })
 }
+
 module.exports = {
     processMatches
 }
-//processMatches("https://www.espncricinfo.com/series/ipl-2020-21-1210595/match-results");
