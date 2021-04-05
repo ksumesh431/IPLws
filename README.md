@@ -12,3 +12,6 @@ https://www.espncricinfo.com/series/ipl-2020-21-1210595.
          => Runs, balls, sixes , fours, sr for that match, date ,venue ,result and opponent name for that match.
 
 * Note: Node must be installed in your system for this project to work.
+
+
+![img1](img\img1.png)
