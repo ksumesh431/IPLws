@@ -13,7 +13,6 @@ https://www.espncricinfo.com/series/ipl-2020-21-1210595.
 
 * Note: Node must be installed in your system for this project to work.
 
-
 ![](img1.jpg)
 ![](img2.jpg)
 ![](img3.jpg)
