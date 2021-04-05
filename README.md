@@ -14,4 +14,4 @@ https://www.espncricinfo.com/series/ipl-2020-21-1210595.
 * Note: Node must be installed in your system for this project to work.
 
 
-![](img\img3.jpg)
+![](img1.jpg)
